@@ -1,3 +1,5 @@
+![PR are welcome](https://img.shields.io/badge/Magento%202-PR%20are%20welcome-orange)
+
 # Magento 2 Technical Interview Resources
 Compilation of all the questions that are asked during the technical interviews oriented for Magento.
 
@@ -43,7 +45,7 @@ Compilation of all the questions that are asked during the technical interviews 
 * What is the biggest difference between Magento 1 et Magento 2?
 * How to register a new module?
 * What are the ways to extend a Class method in Magento 2?
-* How to declare and Observer?
+* How to declare an Observer class?
 * What are the ways to override a class in Magento?
 * What is the difference between Preference and Plugin?
 * How to create a widget block?
