@@ -1,4 +1,4 @@
-:house: [Home](README.md)
+:house: [Home](../../README.md)
 
 # Frontend Beginners Resources
 
