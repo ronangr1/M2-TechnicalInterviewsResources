@@ -1,6 +1,6 @@
 ![Magento 2 banner](./src/images/magento2-banner.jpeg)
 
-# Magento 2 Technical Interview Resource
+# Magento 2 Technical Interview Resources
 
 Hello :wave: to all Magento developers!
 
