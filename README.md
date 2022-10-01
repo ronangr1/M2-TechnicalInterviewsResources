@@ -1,68 +1,48 @@
-![PR are welcome](https://img.shields.io/badge/Magento%202-PR%20are%20welcome-orange)
+![Magento 2 banner](./src/images/magento2-banner.jpeg)
 
-# Magento 2 Technical Interview Resources
-Compilation of all the questions that are asked during the technical interviews oriented for Magento.
+# Magento 2 Technical Interview Resource
 
-# Frequently asked questions
+Hello :wave: to all Magento developers!
 
-# Global Part
+This repository is dedicated to the collection of resources to properly prepare a Magento oriented technical interview.
 
-* What is Composer? And Tell the difference between `composer update` and `composer install`
-* Name some design patterns and define one
-* What are the benefits of OOP?
-* There are differents SQL Join method; Name two and compare them
-* What is PSR?
-* What is the difference between a variable passed by value and passed by reference?
-* Name some OOP Concepts and define one
+This project serves primarily as a reminder. I do not claim to know everything. If you want to contribute, go ahead! PRs are welcome.
 
-# Magento Part
+## Table of contents
 
-## Frontend
+### General Information
 
-### For Beginners and Middle-Exp
+* [Resources Index](./Resources/INDEX.md)
+* [Frequently Asked Questions](FAQ.md)
+* [About the author](README.md#About-the-author)
+* [Rock your Certification Exam](https://swiftotter.com)
+* [Acknowledgments](README.md#Thanks)
 
-* How to display a custom block on the homepage?
-* How to register a new theme to your project and how can it become active?
-* How to extend a Luma based theme file in your active theme?
-* What is a JavaScript component? And How it works with RequireJs?
+### Frontend Resources
 
-### For Experts
+* [For Beginners](./Resources/Frontend/BEGINNERS.md)
+* [For Experts](./Resources/Frontend/BEGINNERS.md)
+* [For Veterans](./Resources/Frontend/BEGINNERS.md)
 
-* How to extends a jQuery Widget in Magento?
-* What is the best way to get customer data in the frontend part of your Magento?
-* What is KnockoutJs?
-* What are `Observable` methods?
-* What the different ways to deploy your static files?
+### Backend Resources
 
-### For Veterans
+* [For Beginners](./Resources/Backend/BEGINNERS.md)
+* [For Experts](./Resources/Backend/BEGINNERS.md)
+* [For Veterans](./Resources/Backend/BEGINNERS.md)
 
-* How to improve the loading of your Magento pages?
+## About the author
 
-## Backend
+My name is Ronan, I consider myself as a Swiss army knife in the Magento ecosystem. I've passed several technical interviews and I've literally failed many times because I wasn't well enough prepared (and also because I have a pitiful level but that's another story haha!).
 
-### For Beginners and Middle-Exp
+I found it interesting to share this feedback and to communicate some information about the technical interviews.
 
-* What is the biggest difference between Magento 1 et Magento 2?
-* How to register a new module?
-* What are the ways to extend a Class method in Magento 2?
-* How to declare an Observer class?
-* What are the ways to override a class in Magento?
-* What is the difference between Preference and Plugin?
-* How to create a widget block?
+You can follow me on Twitter [@ronangr1](https://twitter.com/ronangr1) or on GitHub.
 
-### For Experts
+## Maintainers
 
-* You need to add a column in the order grid and add information related to the products of the order in this column. How to do it?
-* Explain in a few words what is an EAV model
-* How to declare a Rest API in your Magento project?
-* What are ACLs?
-* Name some limitations which Plugins can not be used on
-* What are Proxies? And what benefits provide them?
-* How to set custom data and get them in a Category object?
-* Name objects using EAV in Magento
-* Why should you generate code?
+There is no maintainer at the moment except the author :smile:.
 
-### For Veterans
+## Thanks
 
-* What file configures the object manager and tells it how to handle Dependency Injection?
-* What is a service contract?
+Thank you all for taking the time to read these few lines and thank you to all the Stargazers :star:!
+
