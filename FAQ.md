@@ -61,5 +61,5 @@
 
 ### For Veterans
 
-* What file configures the object manager and tells it how to handle Dependency Injection?
+* Which file configures the object manager and tells it how to handle dependency injection?
 * What is a service contract?
